@@ -1,0 +1,6 @@
+---
+artist: "Raphael Saadiq"
+title: "Angel"
+photo: "http://www.pressherenow.com/photos/307_RS_PRESS1.jpg"
+link: "https://www.youtube.com/watch?v=Oha_7GPu1tQ"
+---

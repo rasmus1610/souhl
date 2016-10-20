@@ -1,0 +1,12 @@
+<svg width="126" height="126" viewBox="0 0 126 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Union</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(63 -478)" figma:type="canvas">
+<g id="Union" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(-63 478)" fill="#2B3D4F" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 68 0L 58 0L 58 58L 0 58L 0 68L 58 68L 58 126L 68 126L 68 68L 126 68L 126 58L 68 58L 68 0Z"/>
+</defs>
+</svg>

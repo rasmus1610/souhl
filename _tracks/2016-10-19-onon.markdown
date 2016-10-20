@@ -1,0 +1,6 @@
+---
+artist: "Erykah Badu"
+title: "On & On"
+photo: "http://marshbarscloset.com/wp-content/uploads/2016/02/badu.jpg"
+link: "https://www.youtube.com/watch?v=CL_yVeTEzIM"
+---
