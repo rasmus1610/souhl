@@ -1,8 +1,8 @@
 ---
 title: Good Man
-date: '2016-10-20 17:39:13'
-artist: ''
+date: '2016-10-20 17:39:00'
+artist: Raphael Saadiq
 photo: ''
-link: ''
-layout: 
+link: https://vimeo.com/19650377
+layout: ''
 ---
